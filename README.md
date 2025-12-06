@@ -30,7 +30,7 @@ The system uses **text files** for storage:
 
 ## 🗂️ Project Structure
 
-`
+```
 Complaint-Management-System-Java/
 │
 ├── src/
@@ -57,7 +57,7 @@ Complaint-Management-System-Java/
 ├── Output.docx
 ├── Project-Presentation.pptx
 └── README.md
-`
+```
 
 ---
 
