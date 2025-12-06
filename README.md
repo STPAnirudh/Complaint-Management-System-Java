@@ -120,12 +120,3 @@ id|username|category|description|status
 - Add email/SMS notifications  
 - Add filtering/sorting of complaints in admin panel  
 
----
-
-## 👨‍💻 Author
-**STP Anirudh**  
-Complaint Management System – Java Mini Project  
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
